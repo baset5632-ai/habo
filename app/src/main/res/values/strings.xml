@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jarvis AI</string>
+    <string name="accessibility_service_description">ڕێگە دەدات بە یاریدەدەری زیرەکی Jarvis کە توخمەکانی سەر شاشەکە بخوێنێتەوە، کلیک بکات، بنووسێت و فەرمانە دەنگییەکانت لەناو هەموو ئەپەکاندا جێبەجێ بکات.</string>
+    <string name="greeting_start">سڵاو، چیت ئەوێت بۆت بکەم؟</string>
+    <string name="status_active">چالاکە و گوێ دەگرێت</string>
+    <string name="status_standby">لە دۆخی وەستاندایە</string>
+    <string name="wake_word_locked">قوفڵی ناو چالاکە (Wake-Word Lock)</string>
+    <string name="wake_word_unlocked">گوێگرتنی کراوە (هەموو فەرمانێک)</string>
+    <string name="tab_hud">ناوەندی زیرەک</string>
+    <string name="tab_api">بەڕێوەبەری API</string>
+    <string name="tab_automation">کۆنترۆڵی مۆبایل</string>
+    <string name="tab_files">فۆڵدەر و کۆد</string>
+</resources>

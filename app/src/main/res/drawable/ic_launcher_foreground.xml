@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Reactor Ring -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,24 C37.43,24 24,37.43 24,54 C24,70.57 37.43,84 54,84 C70.57,84 84,70.57 84,54 C84,37.43 70.57,24 54,24 Z M54,78 C40.75,78 30,67.25 30,54 C30,40.75 40.75,30 54,30 C67.25,30 78,40.75 78,54 C78,67.25 67.25,78 54,78 Z" />
+    <!-- Inner Segmented HUD Arcs -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,34 C42.95,34 34,42.95 34,54 C34,65.05 42.95,74 54,74 C65.05,74 74,65.05 74,54 C74,42.95 65.05,34 54,34 Z M54,68 C46.27,68 40,61.73 40,54 C40,46.27 46.27,40 54,40 C61.73,40 68,46.27 68,54 C68,61.73 61.73,68 54,68 Z" />
+    <!-- Central AI Core & Voice Waveform Bars -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M52,43h4v22h-4zM45,47h4v14h-4zM59,47h4v14h-4zM38,51h4v6h-4zM66,51h4v6h-4z" />
+</vector>

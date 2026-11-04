@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI",
+  "description": "یاریدەدەری دەنگی و نووسینی سەربەخۆی ئەندرۆید بە زمانی کوردی و کۆنترۆڵی تەواوی مۆبایل (Autonomous Kurdish AI Agent)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
